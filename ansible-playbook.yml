@@ -1,0 +1,4 @@
+- name: Creating user "{{ uusername }}" with admin access
+  user: 
+    name: {{ Ramanji }}
+    password: {{ ramanjir }} 
